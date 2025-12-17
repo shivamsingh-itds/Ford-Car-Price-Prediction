@@ -1,4 +1,4 @@
-# Ford Car Price Prediction 🚗📊
+# Ford Car Price Prediction Using Machine Learning
 
 This project predicts the prices of Ford used cars using machine learning regression models.  
 It follows a clean, modular ML pipeline with proper data ingestion, preprocessing, model training, and evaluation.
