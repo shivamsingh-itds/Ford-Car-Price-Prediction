@@ -10,7 +10,6 @@ from src.data_ingestion import load_data
 from src.preprocessing import preprocess
 from src.evaluate import evaluate
 
-
 def main():
     df = load_data()
 
@@ -36,7 +35,6 @@ def main():
     }
 
     results = {}
-
     for name, model in models.items():
         pipeline = Pipeline(
             steps=[
